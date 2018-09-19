@@ -1,0 +1,6 @@
+{
+  "generator-android-jhi": {
+    "packageName": "com.company.app",
+    "appName": "My App"
+  }
+}
